@@ -37,7 +37,7 @@ contains train data of activities code labels
 Merges the training and the test sets to create one data set
 dataCombine
 Extracts only the measurements on the mean and standard deviation for each measurement
-tidydata.txt
+tidydata.txt : 180 rows
 
 Uses descriptive activity names to name the activities in the data set
 activityLabels
